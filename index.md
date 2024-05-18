@@ -5,7 +5,7 @@ Below is the index of all the generated files.
 ---
 ## [Computer Science](<Computer Science/index.md>)
 
-### [Compiler Construction](<Compiler Construction/index.md>)
+### [Compiler Construction](<Computer Science/Compiler Construction/index.md>)
 1. [ast-compiler](<Computer Science/Compiler Construction/ast-compiler.md>)
 1. [compiler-overview](<Computer Science/Compiler Construction/compiler-overview.md>)
 1. [CompilerPhases](<Computer Science/Compiler Construction/CompilerPhases.md>)
@@ -14,13 +14,13 @@ Below is the index of all the generated files.
 1. [semantic-analysis](<Computer Science/Compiler Construction/semantic-analysis.md>)
 1. [symbol-tables](<Computer Science/Compiler Construction/symbol-tables.md>)
 
-### [Computer Networks](<Computer Networks/index.md>)
+### [Computer Networks](<Computer Science/Computer Networks/index.md>)
 1. [AutonomousNodes](<Computer Science/Computer Networks/AutonomousNodes.md>)
 1. [network-interfaces](<Computer Science/Computer Networks/network-interfaces.md>)
 1. [NetworkServices](<Computer Science/Computer Networks/NetworkServices.md>)
 1. [network_protocols](<Computer Science/Computer Networks/network_protocols.md>)
 
-### [Computer Organization and Architecture](<Computer Organization and Architecture/index.md>)
+### [Computer Organization and Architecture](<Computer Science/Computer Organization and Architecture/index.md>)
 1. [acu-isa.md](<Computer Science/Computer Organization and Architecture/acu-isa.md.md>)
 1. [BusArchitecture](<Computer Science/Computer Organization and Architecture/BusArchitecture.md>)
 1. [CacheArchitecture](<Computer Science/Computer Organization and Architecture/CacheArchitecture.md>)
@@ -32,11 +32,11 @@ Below is the index of all the generated files.
 1. [raid-systems](<Computer Science/Computer Organization and Architecture/raid-systems.md>)
 1. [secondary-memory](<Computer Science/Computer Organization and Architecture/secondary-memory.md>)
 
-### [Data Structures & Algorithms](<Data Structures & Algorithms/index.md>)
+### [Data Structures & Algorithms](<Computer Science/Data Structures & Algorithms/index.md>)
 1. [adts-datastructures.md](<Computer Science/Data Structures & Algorithms/adts-datastructures.md.md>)
 1. [AlgorithmComplexity](<Computer Science/Data Structures & Algorithms/AlgorithmComplexity.md>)
 
-### [Database Systems](<Database Systems/index.md>)
+### [Database Systems](<Computer Science/Database Systems/index.md>)
 1. [AttributeClosure](<Computer Science/Database Systems/AttributeClosure.md>)
 1. [canonical-cover](<Computer Science/Database Systems/canonical-cover.md>)
 1. [ClosureFDs](<Computer Science/Database Systems/ClosureFDs.md>)
@@ -55,7 +55,7 @@ Below is the index of all the generated files.
 1. [relational-model](<Computer Science/Database Systems/relational-model.md>)
 1. [sql-language](<Computer Science/Database Systems/sql-language.md>)
 
-### [Design & Analysis of Algorithms](<Design & Analysis of Algorithms/index.md>)
+### [Design & Analysis of Algorithms](<Computer Science/Design & Analysis of Algorithms/index.md>)
 1. [algorithm-design](<Computer Science/Design & Analysis of Algorithms/algorithm-design.md>)
 1. [ApproximateAlgorithms](<Computer Science/Design & Analysis of Algorithms/ApproximateAlgorithms.md>)
 1. [BacktrackingAlgorithms](<Computer Science/Design & Analysis of Algorithms/BacktrackingAlgorithms.md>)
@@ -69,7 +69,7 @@ Below is the index of all the generated files.
 1. [randomized-algorithms](<Computer Science/Design & Analysis of Algorithms/randomized-algorithms.md>)
 1. [search-algorithms](<Computer Science/Design & Analysis of Algorithms/search-algorithms.md>)
 
-### [Digital Electronics and Microprocessors](<Digital Electronics and Microprocessors/index.md>)
+### [Digital Electronics and Microprocessors](<Computer Science/Digital Electronics and Microprocessors/index.md>)
 1. [adders.md](<Computer Science/Digital Electronics and Microprocessors/adders.md.md>)
 1. [CombinationalLogicDesign](<Computer Science/Digital Electronics and Microprocessors/CombinationalLogicDesign.md>)
 1. [decoders](<Computer Science/Digital Electronics and Microprocessors/decoders.md>)
@@ -79,7 +79,7 @@ Below is the index of all the generated files.
 1. [SequentialDesign](<Computer Science/Digital Electronics and Microprocessors/SequentialDesign.md>)
 1. [counting-principles](<Computer Science/Digital Electronics and Microprocessors/counting-principles.md>)
 
-### [Discrete Mathematics](<Discrete Mathematics/index.md>)
+### [Discrete Mathematics](<Computer Science/Discrete Mathematics/index.md>)
 1. [functions-in-discrete-math](<Computer Science/Discrete Mathematics/functions-in-discrete-math.md>)
 1. [predicate_logic](<Computer Science/Discrete Mathematics/predicate_logic.md>)
 1. [PropLogic](<Computer Science/Discrete Mathematics/PropLogic.md>)
@@ -87,7 +87,7 @@ Below is the index of all the generated files.
 1. [relations-discrete-math.md](<Computer Science/Discrete Mathematics/relations-discrete-math.md.md>)
 1. [sets-in-dm.md](<Computer Science/Discrete Mathematics/sets-in-dm.md.md>)
 
-### [Operating Systems](<Operating Systems/index.md>)
+### [Operating Systems](<Computer Science/Operating Systems/index.md>)
 1. [ConcurrencyOS](<Computer Science/Operating Systems/ConcurrencyOS.md>)
 1. [DeadlockHandling](<Computer Science/Operating Systems/DeadlockHandling.md>)
 1. [memory-allocation](<Computer Science/Operating Systems/memory-allocation.md>)
@@ -100,16 +100,16 @@ Below is the index of all the generated files.
 1. [tasks-os](<Computer Science/Operating Systems/tasks-os.md>)
 1. [threads](<Computer Science/Operating Systems/threads.md>)
 
-### [Theory of Computation](<Theory of Computation/index.md>)
+### [Theory of Computation](<Computer Science/Theory of Computation/index.md>)
 1. [FA-guide.md](<Computer Science/Theory of Computation/FA-guide.md.md>)
 1. [grammar-theory](<Computer Science/Theory of Computation/grammar-theory.md>)
 1. [regex-theory](<Computer Science/Theory of Computation/regex-theory.md>)
 1. [regular-languages](<Computer Science/Theory of Computation/regular-languages.md>)
 
 ---
-## [English](<Computer Science/index.md>)
+## [English](<English/index.md>)
 
-### [Composition](<Composition/index.md>)
+### [Composition](<English/Composition/index.md>)
 1. [AnalogyInComposition](<English/Composition/AnalogyInComposition.md>)
 1. [AntonymsInComposition](<English/Composition/AntonymsInComposition.md>)
 1. [ContextMeanings](<English/Composition/ContextMeanings.md>)
@@ -117,7 +117,7 @@ Below is the index of all the generated files.
 1. [oddwords](<English/Composition/oddwords.md>)
 1. [SynonymsInComposition](<English/Composition/SynonymsInComposition.md>)
 
-### [Grammar](<Grammar/index.md>)
+### [Grammar](<English/Grammar/index.md>)
 1. [AdjectivesGrammar](<English/Grammar/AdjectivesGrammar.md>)
 1. [AgreementGrammar](<English/Grammar/AgreementGrammar.md>)
 1. [Determiners_Grammar](<English/Grammar/Determiners_Grammar.md>)
@@ -131,12 +131,12 @@ Below is the index of all the generated files.
 1. [timetense](<English/Grammar/timetense.md>)
 1. [VoiceInGrammar](<English/Grammar/VoiceInGrammar.md>)
 
-### [Reading Comprehension](<Reading Comprehension/index.md>)
+### [Reading Comprehension](<English/Reading Comprehension/index.md>)
 1. [Linkers.md](<English/Reading Comprehension/Linkers.md.md>)
 1. [ParagraphUnity](<English/Reading Comprehension/ParagraphUnity.md>)
 1. [rearrangement](<English/Reading Comprehension/rearrangement.md>)
 
-### [Vocabulary](<Vocabulary/index.md>)
+### [Vocabulary](<English/Vocabulary/index.md>)
 1. [ContentIdeas](<English/Vocabulary/ContentIdeas.md>)
 1. [idioms.md](<English/Vocabulary/idioms.md.md>)
 1. [Reconstruct](<English/Vocabulary/Reconstruct.md>)
@@ -144,16 +144,16 @@ Below is the index of all the generated files.
 1. [vocabulary-english](<English/Vocabulary/vocabulary-english.md>)
 
 ---
-## [Logical Reasoning](<Computer Science/index.md>)
+## [Logical Reasoning](<Logical Reasoning/index.md>)
 
-### [Nonverbal Reasoning](<Nonverbal Reasoning/index.md>)
+### [Nonverbal Reasoning](<Logical Reasoning/Nonverbal Reasoning/index.md>)
 1. [FigureMatrix](<Logical Reasoning/Nonverbal Reasoning/FigureMatrix.md>)
 1. [FigureReasoning](<Logical Reasoning/Nonverbal Reasoning/FigureReasoning.md>)
 1. [PaperCuttingNR.md](<Logical Reasoning/Nonverbal Reasoning/PaperCuttingNR.md.md>)
 1. [PatternPerception.md](<Logical Reasoning/Nonverbal Reasoning/PatternPerception.md.md>)
 1. [rule-detection](<Logical Reasoning/Nonverbal Reasoning/rule-detection.md>)
 
-### [Verbal Reasoning](<Verbal Reasoning/index.md>)
+### [Verbal Reasoning](<Logical Reasoning/Verbal Reasoning/index.md>)
 1. [AnalogiesInReasoning](<Logical Reasoning/Verbal Reasoning/AnalogiesInReasoning.md>)
 1. [chartLogic](<Logical Reasoning/Verbal Reasoning/chartLogic.md>)
 1. [classification-verbal-reasoning](<Logical Reasoning/Verbal Reasoning/classification-verbal-reasoning.md>)
@@ -161,9 +161,9 @@ Below is the index of all the generated files.
 1. [SeriesCompletion](<Logical Reasoning/Verbal Reasoning/SeriesCompletion.md>)
 
 ---
-## [Mathematics](<Computer Science/index.md>)
+## [Mathematics](<Mathematics/index.md>)
 
-### [Calculus](<Calculus/index.md>)
+### [Calculus](<Mathematics/Calculus/index.md>)
 1. [ConvergenceSequences](<Mathematics/Calculus/ConvergenceSequences.md>)
 1. [DefiniteIntegralsApplications](<Mathematics/Calculus/DefiniteIntegralsApplications.md>)
 1. [DerivativesApplications](<Mathematics/Calculus/DerivativesApplications.md>)
@@ -171,19 +171,19 @@ Below is the index of all the generated files.
 1. [limits-continuity](<Mathematics/Calculus/limits-continuity.md>)
 1. [MaclaurinTaylorSeries](<Mathematics/Calculus/MaclaurinTaylorSeries.md>)
 
-### [Complex Variables](<Complex Variables/index.md>)
+### [Complex Variables](<Mathematics/Complex Variables/index.md>)
 1. [analytic-functions](<Mathematics/Complex Variables/analytic-functions.md>)
 1. [cauchy-integral-formula](<Mathematics/Complex Variables/cauchy-integral-formula.md>)
 1. [CauchyTheorems](<Mathematics/Complex Variables/CauchyTheorems.md>)
 1. [ResidueTheory](<Mathematics/Complex Variables/ResidueTheory.md>)
 1. [TaylorLaurentSeries](<Mathematics/Complex Variables/TaylorLaurentSeries.md>)
 
-### [Differential Equations](<Differential Equations/index.md>)
+### [Differential Equations](<Mathematics/Differential Equations/index.md>)
 1. [FODE.md](<Mathematics/Differential Equations/FODE.md.md>)
 1. [hodles](<Mathematics/Differential Equations/hodles.md>)
 1. [variation-param.md](<Mathematics/Differential Equations/variation-param.md.md>)
 
-### [Linear Algebra](<Linear Algebra/index.md>)
+### [Linear Algebra](<Mathematics/Linear Algebra/index.md>)
 1. [eigenvalues-eigenvectors](<Mathematics/Linear Algebra/eigenvalues-eigenvectors.md>)
 1. [linear-algebra-basis-dimension](<Mathematics/Linear Algebra/linear-algebra-basis-dimension.md>)
 1. [linear-equations](<Mathematics/Linear Algebra/linear-equations.md>)
@@ -194,23 +194,23 @@ Below is the index of all the generated files.
 1. [row-reduction](<Mathematics/Linear Algebra/row-reduction.md>)
 1. [vector-spaces](<Mathematics/Linear Algebra/vector-spaces.md>)
 
-### [Numerical Methods](<Numerical Methods/index.md>)
+### [Numerical Methods](<Mathematics/Numerical Methods/index.md>)
 1. [fixedpoint](<Mathematics/Numerical Methods/fixedpoint.md>)
 1. [linear-equations](<Mathematics/Numerical Methods/linear-equations.md>)
 1. [mfp.md](<Mathematics/Numerical Methods/mfp.md.md>)
 1. [newton-method](<Mathematics/Numerical Methods/newton-method.md>)
 1. [secantmethod](<Mathematics/Numerical Methods/secantmethod.md>)
 
-### [Probability and Statistics](<Probability and Statistics/index.md>)
+### [Probability and Statistics](<Mathematics/Probability and Statistics/index.md>)
 1. [conditional-probability](<Mathematics/Probability and Statistics/conditional-probability.md>)
 1. [IndependentVariables](<Mathematics/Probability and Statistics/IndependentVariables.md>)
 1. [RandomVariables](<Mathematics/Probability and Statistics/RandomVariables.md>)
 1. [sample-space](<Mathematics/Probability and Statistics/sample-space.md>)
 
 ---
-## [Software Systems](<Computer Science/index.md>)
+## [Software Systems](<Software Systems/index.md>)
 
-### [Advanced C Programming](<Advanced C Programming/index.md>)
+### [Advanced C Programming](<Software Systems/Advanced C Programming/index.md>)
 1. [arl.md](<Software Systems/Advanced C Programming/arl.md.md>)
 1. [binary-trees](<Software Systems/Advanced C Programming/binary-trees.md>)
 1. [fileio](<Software Systems/Advanced C Programming/fileio.md>)
@@ -220,7 +220,7 @@ Below is the index of all the generated files.
 1. [stringproc](<Software Systems/Advanced C Programming/stringproc.md>)
 1. [udt.md](<Software Systems/Advanced C Programming/udt.md.md>)
 
-### [Core Systems](<Core Systems/index.md>)
+### [Core Systems](<Software Systems/Core Systems/index.md>)
 1. [arithmetic-core](<Software Systems/Core Systems/arithmetic-core.md>)
 1. [combinational_sequential_circuits](<Software Systems/Core Systems/combinational_sequential_circuits.md>)
 1. [core-systems-memory-control](<Software Systems/Core Systems/core-systems-memory-control.md>)
@@ -230,12 +230,12 @@ Below is the index of all the generated files.
 1. [os-basics](<Software Systems/Core Systems/os-basics.md>)
 1. [processes-threads](<Software Systems/Core Systems/processes-threads.md>)
 
-### [Database Systems](<Database Systems/index.md>)
+### [Database Systems](<Software Systems/Database Systems/index.md>)
 1. [ermodel_ermodeling.md](<Software Systems/Database Systems/ermodel_ermodeling.md.md>)
 1. [NormalizationTechniques](<Software Systems/Database Systems/NormalizationTechniques.md>)
 1. [sql-querying](<Software Systems/Database Systems/sql-querying.md>)
 
-### [Object Orientation and Software Engineering](<Object Orientation and Software Engineering/index.md>)
+### [Object Orientation and Software Engineering](<Software Systems/Object Orientation and Software Engineering/index.md>)
 1. [ArchitecturalDesign](<Software Systems/Object Orientation and Software Engineering/ArchitecturalDesign.md>)
 1. [design-patterns](<Software Systems/Object Orientation and Software Engineering/design-patterns.md>)
 1. [GenericsArticle](<Software Systems/Object Orientation and Software Engineering/GenericsArticle.md>)
@@ -249,7 +249,7 @@ Below is the index of all the generated files.
 1. [requirements](<Software Systems/Object Orientation and Software Engineering/requirements.md>)
 1. [types-polymorphism.md](<Software Systems/Object Orientation and Software Engineering/types-polymorphism.md.md>)
 
-### [Structured C Programming](<Structured C Programming/index.md>)
+### [Structured C Programming](<Software Systems/Structured C Programming/index.md>)
 1. [conditional-control-constructs](<Software Systems/Structured C Programming/conditional-control-constructs.md>)
 1. [control-flow-c](<Software Systems/Structured C Programming/control-flow-c.md>)
 1. [control_constructs](<Software Systems/Structured C Programming/control_constructs.md>)
