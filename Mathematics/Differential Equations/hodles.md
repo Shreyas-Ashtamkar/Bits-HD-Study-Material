@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Differential Equations](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Differential Equations](../index.md)
 ## Higher Order Linear Differential Equations with Constant Coefficient
 
 **Definition:**

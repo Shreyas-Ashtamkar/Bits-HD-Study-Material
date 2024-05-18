@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## Question Tags in Grammar in English
 
 **What are Question Tags?**

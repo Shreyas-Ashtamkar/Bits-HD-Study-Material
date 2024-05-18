@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Advanced C Programming](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Advanced C Programming](../index.md)
 ## File and I/O Operations in Advanced C Programming for Software Systems
 
 **Introduction:**

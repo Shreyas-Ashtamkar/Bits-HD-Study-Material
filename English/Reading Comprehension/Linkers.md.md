@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Reading Comprehension](<..\index.md>)
+Path : [/English](../../index.md) [/Reading Comprehension](../index.md)
 ## **Linkers/Connectives in Reading Comprehension in English**
 
 **Introduction:**

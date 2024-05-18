@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Linear Algebra](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Linear Algebra](../index.md)
 ## Linear Transformations in Linear Algebra
 
 ### Introduction

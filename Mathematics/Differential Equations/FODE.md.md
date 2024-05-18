@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Differential Equations](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Differential Equations](../index.md)
 ## First Order Differential Equations
 
 First order differential equations (FODEs) are differential equations involving a dependent variable and its first derivative. They are widely used in various fields, including physics, engineering, and applied mathematics.

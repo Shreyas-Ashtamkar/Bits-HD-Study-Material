@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Compiler Construction](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Compiler Construction](../index.md)
 ## Lexical Analysis in Compiler Construction
 
 ### Definition

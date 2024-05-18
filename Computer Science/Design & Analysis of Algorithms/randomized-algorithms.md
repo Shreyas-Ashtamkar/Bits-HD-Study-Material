@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Design & Analysis of Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Design & Analysis of Algorithms](../index.md)
 ## Randomization in Algorithm Design Techniques in Design & Analysis of Algorithms
 
 ### Introduction

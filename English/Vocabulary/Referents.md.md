@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Vocabulary](<..\index.md>)
+Path : [/English](../../index.md) [/Vocabulary](../index.md)
 ## Referents in Vocabulary in English
 
 **Introduction:**

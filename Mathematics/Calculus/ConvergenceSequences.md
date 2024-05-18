@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Calculus](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Calculus](../index.md)
 ## Convergence of Infinite Sequences and Series in Calculus
 
 **Introduction:**

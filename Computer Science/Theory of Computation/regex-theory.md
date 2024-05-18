@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Theory of Computation](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Theory of Computation](../index.md)
 ## Regular Expressions in Theory of Computation
 
 **Definition:**

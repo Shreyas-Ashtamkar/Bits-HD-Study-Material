@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Discrete Mathematics](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Discrete Mathematics](../index.md)
 ## Principles of Counting in Discrete Mathematics
 
 **Introduction:**

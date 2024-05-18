@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Data Structures & Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Data Structures & Algorithms](../index.md)
 ## Abstract Data Types and Data Structures in Data Structures & Algorithms
 
 **Abstract Data Types (ADTs)**

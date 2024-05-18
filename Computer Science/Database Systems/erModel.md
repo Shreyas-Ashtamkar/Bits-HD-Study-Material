@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Database Systems](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Database Systems](../index.md)
 ## ER Model in Data Modeling
 
 **Introduction:**

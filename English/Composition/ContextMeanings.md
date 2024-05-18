@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Composition](<..\index.md>)
+Path : [/English](../../index.md) [/Composition](../index.md)
 ## Contextual Meaning in Composition in English
 
 ### Definition

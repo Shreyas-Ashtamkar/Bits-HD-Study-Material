@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Design & Analysis of Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Design & Analysis of Algorithms](../index.md)
 ## NP-Completeness & NP-Hardness
 
 **Analysis and Complexity in Design & Analysis of Algorithms**

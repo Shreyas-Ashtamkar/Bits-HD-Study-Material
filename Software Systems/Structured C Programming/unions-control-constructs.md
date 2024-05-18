@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Structured C Programming](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Structured C Programming](../index.md)
 ## Unions in Control Constructs in Structured C Programming in Software Systems
 
 **Introduction**

@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## Parallel Construction in Grammar
 
 **Definition:**

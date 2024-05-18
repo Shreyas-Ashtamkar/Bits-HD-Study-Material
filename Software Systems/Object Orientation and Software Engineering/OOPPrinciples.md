@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Object Orientation and Software Engineering](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Object Orientation and Software Engineering](../index.md)
 ## Basics of OOP - Objects, Classes and Delegation in Object Orientation and Software Engineering
 
 **Object-Oriented Programming (OOP)** is a programming paradigm that emphasizes the use of "objects" to design applications and software systems. These objects are bundles of data (attributes) and methods (actions) that can be easily combined to create complex applications.

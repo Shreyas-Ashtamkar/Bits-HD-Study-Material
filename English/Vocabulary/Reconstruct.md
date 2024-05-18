@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Vocabulary](<..\index.md>)
+Path : [/English](../../index.md) [/Vocabulary](../index.md)
 ## Reconstruction (rewording) in Vocabulary
 
 ### Definition and Purpose

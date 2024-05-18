@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Numerical Methods](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Numerical Methods](../index.md)
 ## Method of False Position
 
 **Solution of Nonlinear Algebraic Equations**

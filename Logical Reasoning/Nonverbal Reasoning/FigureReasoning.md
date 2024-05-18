@@ -1,4 +1,4 @@
-Path : [/Logical Reasoning](<..\..\index.md>) [/Nonverbal Reasoning](<..\index.md>)
+Path : [/Logical Reasoning](../../index.md) [/Nonverbal Reasoning](../index.md)
 ## Figure Formation and Analysis in Nonverbal Reasoning in Logical Reasoning
 
 **Introduction:**

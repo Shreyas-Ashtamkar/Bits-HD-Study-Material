@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Calculus](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Calculus](../index.md)
 ## Limit and Continuity in Calculus
 
 **Limit**

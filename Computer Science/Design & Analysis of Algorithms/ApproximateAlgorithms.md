@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Design & Analysis of Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Design & Analysis of Algorithms](../index.md)
 ## Introduction to Approximation Algorithms in Design & Analysis of Algorithms
 
 **What are Approximation Algorithms?**

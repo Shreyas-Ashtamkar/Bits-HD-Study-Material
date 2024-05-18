@@ -1,4 +1,4 @@
-Path : [/Logical Reasoning](<..\..\index.md>) [/Verbal Reasoning](<..\index.md>)
+Path : [/Logical Reasoning](../../index.md) [/Verbal Reasoning](../index.md)
 ## Analogy in Verbal Reasoning
 
 **Introduction**

@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Calculus](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Calculus](../index.md)
 ## Applications of Derivatives in Mathematics
 
 ### 1. Optimization Theory

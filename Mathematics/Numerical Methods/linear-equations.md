@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Numerical Methods](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Numerical Methods](../index.md)
 ## Solution of System of Linear Equations in Numerical Methods
 
 **Introduction:**

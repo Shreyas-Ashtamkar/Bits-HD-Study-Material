@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Core Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Core Systems](../index.md)
 ## Instruction Set in Computer Organization in Core Systems in Software Systems
 
 **Introduction**

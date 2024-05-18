@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Complex Variables](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Complex Variables](../index.md)
 ## Analytic Functions in Complex Variables
 
 ### Introduction

@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## Transformation in Grammar in English
 
 **Introduction**

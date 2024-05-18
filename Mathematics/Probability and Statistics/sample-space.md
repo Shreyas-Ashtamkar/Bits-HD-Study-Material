@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Probability and Statistics](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Probability and Statistics](../index.md)
 ## Sample Space and Events in Probability and Statistics
 
 **Introduction:**

@@ -1,4 +1,4 @@
-Path : [/Logical Reasoning](<..\..\index.md>) [/Nonverbal Reasoning](<..\index.md>)
+Path : [/Logical Reasoning](../../index.md) [/Nonverbal Reasoning](../index.md)
 ## Figure Matrix in Nonverbal Reasoning:
 
 **Definition:**

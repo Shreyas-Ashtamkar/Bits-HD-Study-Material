@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Data Structures & Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Data Structures & Algorithms](../index.md)
 ## Algorithm Analysis and Order Notation in Data Structures & Algorithms
 
 ### Algorithm Analysis

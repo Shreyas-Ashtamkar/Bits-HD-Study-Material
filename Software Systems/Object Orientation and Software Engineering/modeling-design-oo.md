@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Object Orientation and Software Engineering](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Object Orientation and Software Engineering](../index.md)
 ## Modeling for Design in Object Orientation and Software Engineering
 
 **Introduction**

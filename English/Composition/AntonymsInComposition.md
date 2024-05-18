@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Composition](<..\index.md>)
+Path : [/English](../../index.md) [/Composition](../index.md)
 ## Antonyms in Composition
 
 **Introduction:**

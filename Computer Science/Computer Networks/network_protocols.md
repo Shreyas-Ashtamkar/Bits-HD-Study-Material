@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Networks](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Networks](../index.md)
 ## Protocols in Concepts of in Network Architectures in Computer Networks
 
 **Protocol**

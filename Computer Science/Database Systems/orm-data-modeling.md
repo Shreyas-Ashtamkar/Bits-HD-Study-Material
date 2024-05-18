@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Database Systems](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Database Systems](../index.md)
 ## Object-Relational Model in Data Modeling
 
 The object-relational model (ORM) is a data modeling approach that bridges the gap between object-oriented programming languages and relational databases. It allows developers to store and manipulate data in a computer system using object-oriented concepts like classes, objects, and their relationships.

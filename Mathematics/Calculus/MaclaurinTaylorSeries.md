@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Calculus](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Calculus](../index.md)
 ## Maclaurin and Taylor Series: Functions of Several Variables
 
 ### Introduction

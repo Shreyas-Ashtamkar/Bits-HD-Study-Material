@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Theory of Computation](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Theory of Computation](../index.md)
 ## Finite Automata
 
 **Finite Automata** are mathematical models that describe discrete state machines. They are used to model the behavior of systems that can exist in a limited number of states and can transition between those states based on input.

@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Differential Equations](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Differential Equations](../index.md)
 ## Method of Variation of Parameters in Differential Equations
 
 **Introduction:**

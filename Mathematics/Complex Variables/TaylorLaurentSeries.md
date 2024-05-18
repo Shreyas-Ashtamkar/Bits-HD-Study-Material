@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Complex Variables](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Complex Variables](../index.md)
 ## Taylor Series and Laurent Series in Complex Variables
 
 **Taylor Series**

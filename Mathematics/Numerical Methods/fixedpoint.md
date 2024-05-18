@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Numerical Methods](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Numerical Methods](../index.md)
 ## Fixed Point Iteration Method for Solving Nonlinear Algebraic Equations
 
 **Introduction:**

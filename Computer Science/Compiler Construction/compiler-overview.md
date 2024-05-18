@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Compiler Construction](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Compiler Construction](../index.md)
 ## Overview of Compiler in Compiler Construction
 
 **Introduction:**

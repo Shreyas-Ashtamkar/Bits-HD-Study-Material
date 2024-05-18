@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Probability and Statistics](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Probability and Statistics](../index.md)
 ## Random Variables and Probability Distributions in Probability and Statistics
 
 **Introduction:**

@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Core Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Core Systems](../index.md)
 ## Combinational and Sequential Circuits in Core Systems of Software Systems
 
 **Combinational Circuitry**

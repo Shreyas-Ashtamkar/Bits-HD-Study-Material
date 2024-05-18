@@ -1,4 +1,4 @@
-Path : [/Logical Reasoning](<..\..\index.md>) [/Verbal Reasoning](<..\index.md>)
+Path : [/Logical Reasoning](../../index.md) [/Verbal Reasoning](../index.md)
 ## Series Completion in Verbal Reasoning: A Core Component of Logical Reasoning
 
 **Introduction:**

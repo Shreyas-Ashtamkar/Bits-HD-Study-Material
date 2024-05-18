@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Calculus](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Calculus](../index.md)
 ## Applications of Definite Integrals in Mathematics
 
 ### 1. Area Under a Curve

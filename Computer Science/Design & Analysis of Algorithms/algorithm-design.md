@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Design & Analysis of Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Design & Analysis of Algorithms](../index.md)
 ## Top-Down Design (Divide-and-Conquer, Greedy)
 
 **Top-down design** is a widely employed algorithm design technique that relies on the divide-and-conquer paradigm. It involves breaking down a complex problem into smaller subproblems, solving them recursively, and then combining their solutions to obtain the solution to the original problem.

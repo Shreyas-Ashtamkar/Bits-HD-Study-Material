@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Compiler Construction](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Compiler Construction](../index.md)
 ## Phases of Compiler Construction
 
 ### Phase 1: Lexical Analysis (Scanning)

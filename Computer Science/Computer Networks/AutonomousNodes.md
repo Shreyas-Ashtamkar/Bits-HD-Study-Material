@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Networks](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Networks](../index.md)
 ## Autonomous Computing Nodes in Concepts of Network Architectures
 
 ### Introduction

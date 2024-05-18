@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Reading Comprehension](<..\index.md>)
+Path : [/English](../../index.md) [/Reading Comprehension](../index.md)
 ## Rearrangement in Reading Comprehension
 
 **Introduction:**

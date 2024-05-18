@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## **Time and Tense in Grammar in English**
 
 ### **Understanding Time and Tense**

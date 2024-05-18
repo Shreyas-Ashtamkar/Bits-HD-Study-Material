@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Operating Systems](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Operating Systems](../index.md)
 ## Process States & Transitions in Operating Systems
 
 **Process State**

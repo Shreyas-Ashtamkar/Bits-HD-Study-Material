@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Networks](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Networks](../index.md)
 ## Interfaces in Concepts of Network Architectures in Computer Networks
 
 **Introduction:**

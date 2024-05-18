@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Structured C Programming](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Structured C Programming](../index.md)
 ## Dynamically Allocated Data & Linked Lists in Control Constructs in Structured C Programming for Software Systems
 
 **Introduction**

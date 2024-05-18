@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Operating Systems](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Operating Systems](../index.md)
 ## Deadlock and Deadlock Handling in Operating Systems
 
 ### Deadlock Definition

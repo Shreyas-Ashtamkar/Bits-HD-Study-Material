@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Organization and Architecture](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Organization and Architecture](../index.md)
 ## RAID System in Computer Organization and Architecture
 
 **Introduction**

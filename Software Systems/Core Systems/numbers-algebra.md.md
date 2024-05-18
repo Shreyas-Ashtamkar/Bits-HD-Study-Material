@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Core Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Core Systems](../index.md)
 ## Number Representations and Boolean Algebra in Core Systems
 
 **Introduction**

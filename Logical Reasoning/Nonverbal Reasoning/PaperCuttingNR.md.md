@@ -1,4 +1,4 @@
-Path : [/Logical Reasoning](<..\..\index.md>) [/Nonverbal Reasoning](<..\index.md>)
+Path : [/Logical Reasoning](../../index.md) [/Nonverbal Reasoning](../index.md)
 ## Paper Cutting in Nonverbal Reasoning: Logical Reasoning and Spatial Representation
 
 **Introduction:**

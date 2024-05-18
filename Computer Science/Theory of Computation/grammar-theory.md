@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Theory of Computation](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Theory of Computation](../index.md)
 ## Grammar in Theory of Computation
 
 ### Introduction

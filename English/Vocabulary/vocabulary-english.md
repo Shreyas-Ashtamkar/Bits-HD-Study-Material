@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Vocabulary](<..\index.md>)
+Path : [/English](../../index.md) [/Vocabulary](../index.md)
 ## Vocabulary in English
 
 **Introduction:**

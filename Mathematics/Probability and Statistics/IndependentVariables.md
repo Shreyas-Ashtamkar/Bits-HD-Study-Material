@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Probability and Statistics](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Probability and Statistics](../index.md)
 ## Independent Random Variables in Probability and Statistics
 
 ### Definition

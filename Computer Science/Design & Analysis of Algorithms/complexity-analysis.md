@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Design & Analysis of Algorithms](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Design & Analysis of Algorithms](../index.md)
 ## Complexity of Problems - Lower Bound Analysis in Analysis and Complexity in Design & Analysis of Algorithms
 
 **Introduction**

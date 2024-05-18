@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## Voice in Grammar in English
 
 **Introduction:**

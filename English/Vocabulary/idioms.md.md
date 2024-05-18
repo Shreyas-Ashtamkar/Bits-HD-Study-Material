@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Vocabulary](<..\index.md>)
+Path : [/English](../../index.md) [/Vocabulary](../index.md)
 ## Idioms and Phrases in Vocabulary in English
 
 **Definition:**

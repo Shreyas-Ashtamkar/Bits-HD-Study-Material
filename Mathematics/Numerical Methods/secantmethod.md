@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Numerical Methods](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Numerical Methods](../index.md)
 ## Secant Method for Solving Nonlinear Algebraic Equations
 
 The Secant method is a root-finding algorithm used to locate roots of nonlinear algebraic equations. It exploits the behavior of a function to estimate its root by using two initial guesses. 

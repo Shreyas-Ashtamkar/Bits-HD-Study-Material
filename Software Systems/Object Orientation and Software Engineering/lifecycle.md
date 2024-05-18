@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Object Orientation and Software Engineering](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Object Orientation and Software Engineering](../index.md)
 ## Software Lifecycle in Object Orientation and Software Engineering in Software Systems
 
 **Introduction**

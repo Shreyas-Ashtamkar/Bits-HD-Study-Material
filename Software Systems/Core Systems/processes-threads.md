@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Core Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Core Systems](../index.md)
 ## Processes and Threads in Computer Organization in Core Systems in Software Systems
 
 ### Processes

@@ -1,4 +1,4 @@
-Path : [/English](<..\..\index.md>) [/Grammar](<..\index.md>)
+Path : [/English](../../index.md) [/Grammar](../index.md)
 ## Agreement in Grammar
 
 Agreement in grammar refers to the consistency in the number, person, and tense of grammatical elements within a sentence. It ensures that all parts of the sentence work together harmoniously to convey the intended meaning.

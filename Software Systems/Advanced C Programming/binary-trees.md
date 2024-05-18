@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Advanced C Programming](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Advanced C Programming](../index.md)
 ## Binary Trees in Advanced C Programming in Software Systems
 
 **Definition:**

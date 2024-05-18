@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Advanced C Programming](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Advanced C Programming](../index.md)
 ## Access Restricted Lists (Stacks/Queues) in Advanced C Programming in Software Systems
 
 ### Introduction

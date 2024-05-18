@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Probability and Statistics](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Probability and Statistics](../index.md)
 ## Conditional Probability and Independence in Probability and Statistics
 
 **Conditional Probability**

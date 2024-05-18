@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Database Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Database Systems](../index.md)
 ## Database Modeling & Design - ER Modeling in Database Systems
 
 **Introduction:**

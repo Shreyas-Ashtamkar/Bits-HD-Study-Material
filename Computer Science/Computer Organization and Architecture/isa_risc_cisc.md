@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Organization and Architecture](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Organization and Architecture](../index.md)
 ## RISC & CISC Processors in Instruction Set Architecture
 
 **Instruction Set Architecture (ISA)** plays a fundamental role in the design and functioning of processors. It defines the interface between hardware and software, allowing programs to interact with the processor through a set of instructions. Different architectures implement different ISA models, leading to variations in performance, efficiency, and flexibility. Two prominent models are **RISC (Reduced Instruction Set Computing)** and **CISC (Complex Instruction Set Computing)**.

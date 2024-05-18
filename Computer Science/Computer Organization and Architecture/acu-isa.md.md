@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Computer Organization and Architecture](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Computer Organization and Architecture](../index.md)
 ## Computer Arithmetic & Control Unit in Instruction Set Architecture
 
 **Introduction:**

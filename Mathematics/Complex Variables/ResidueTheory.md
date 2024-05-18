@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Complex Variables](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Complex Variables](../index.md)
 ## Calculus of Residues and Applications in Complex Variables
 
 **Introduction**

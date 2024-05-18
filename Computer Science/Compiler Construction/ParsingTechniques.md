@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Compiler Construction](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Compiler Construction](../index.md)
 ## Parsing in Compiler Construction
 
 Parsing is a crucial phase in compiler construction, responsible for transforming the lexical tokens identified by the lexical analyzer into a parse tree, which represents the syntactic structure of the input program. This process ensures that the code adheres to the language's grammar rules. There are two main parsing approaches: **Top-down parsing** and **Bottom-up parsing**.

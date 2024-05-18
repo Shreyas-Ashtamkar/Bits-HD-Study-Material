@@ -1,4 +1,4 @@
-Path : [/Computer Science](<..\..\index.md>) [/Digital Electronics and Microprocessors](<..\index.md>)
+Path : [/Computer Science](../../index.md) [/Digital Electronics and Microprocessors](../index.md)
 ## Sequential Logic Design in Digital Electronics and Microprocessors
 
 **Introduction:**

@@ -1,4 +1,4 @@
-Path : [/Software Systems](<..\..\index.md>) [/Database Systems](<..\index.md>)
+Path : [/Software Systems](../../index.md) [/Database Systems](../index.md)
 ## Database Querying - SQL in Database Systems in Software Systems
 
 **Introduction:**

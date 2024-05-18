@@ -1,4 +1,4 @@
-Path : [/Mathematics](<..\..\index.md>) [/Complex Variables](<..\index.md>)
+Path : [/Mathematics](../../index.md) [/Complex Variables](../index.md)
 ## Cauchy's Integral Formula
 
 **Cauchy's integral formula** is a fundamental theorem in complex analysis that relates the values of a function at a point to its behavior along a closed contour surrounding that point. 
